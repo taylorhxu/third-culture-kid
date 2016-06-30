@@ -1,5 +1,8 @@
-# Solo 
+# Third Culture Kid
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Third culture kid (TCK) is a term used to refer to children who were raised in a culture outside of their parents' culture for a significant part of their development years.
+
+*Third Culture Kid* is a series that is written by [Taylor H. Xu](http://talyorhxu.com).
+
+
