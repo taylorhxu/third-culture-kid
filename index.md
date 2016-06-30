@@ -2,10 +2,10 @@
 layout: default
 ---
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+Third culture kid (TCK) is a term used to refer to children who were raised in a culture outside of their parents' culture for a significant part of their development years.
 
 
-Looking for a more standard Jekyll theme? Try out [Shiori](http://github.com/ellekasai/shiori) theme, which has Bootstrap integration.
+This is a series that is written by [Taylor H. Xu](http://talyorhxu.com).
 
 ## Solo is useful if...
 
