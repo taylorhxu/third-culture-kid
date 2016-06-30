@@ -1,5 +1,5 @@
-# Solo 
+This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
